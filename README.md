@@ -1,3 +1,4 @@
+
 ## Mathematical Theory of Neural Network Models
 
 ### Administrative information
@@ -35,13 +36,16 @@ Deep learning methods have achieved remarkable successes in many areas, for exam
 
 ### Grading
 **Coursework:**
-- Homework (45%)
-- Paper review (45%): [The list of papers](paper_list.md)
-- Scribe notes (10%)
+- **Homework** (45%)
+- **Paper review** (45%): You will write a review of the paper you are interested in. The review should not only summarize the paper, but also identify the noveltiy and limitation of the result.  A good paper review at least answers the following four questions:
+    - What is the main result of the paper?
+    - Why is the result important and significant compared with other papers?
+    - What is the limitation of the result?
+    - What is the potential research direction inspired by the paper?
+You can choose the paper from this [ paper list](paper_list.md).
+- **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. 
 
-**Collaboration policy:** We encourage you to form study groups and discuss homeworks and read the papers. 
-However, you must write up all the homeworks from scrach independently without refering to any note from 
-others. 
+**Collaboration policy:** We encourage you to form study groups and discuss homeworks and papers.  However, you must write up all the homeworks and notes from scrach independently without refering to any note from  others. 
 
 
 
@@ -51,7 +55,7 @@ others.
  - [Mohri's book: Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
  - [Shai Shalev-Shwartz's book: Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 
---- 
+---
 ### Schedule (subject to change)
 
 #### Week 1
