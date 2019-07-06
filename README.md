@@ -1,6 +1,9 @@
 
 ## Mathematical Theory of Neural Network Models
 
+### Announcemetns
+- [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
+
 ### Administrative information
 
 - **Instructor:**   
@@ -10,7 +13,7 @@
 
 - **Time:** Tue: 2:00-5:00 pm; Thu: 2:00-5:00 pm; Fri: 3:00-5:00 pm. 
 
-- **Location:**  Room 420, [Teaching Building 2](https://maps.baidu.com/poi/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6(%E7%87%95%E5%9B%AD%E6%A0%A1%E5%8C%BA)%E7%AC%AC%E4%BA%8C%E6%95%99%E5%AD%A6%E6%A5%BC(%E6%9D%8E%E5%85%86%E5%9F%BA%E6%A5%BC)/@12948834.869857343,4837581.844142513,19.6z?uid=82548a63754afc91735e80e4&primaryUid=10472254985355704340&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl)
+- **Location:**  Room 515, [Teaching Building 2](https://maps.baidu.com/poi/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6(%E7%87%95%E5%9B%AD%E6%A0%A1%E5%8C%BA)%E7%AC%AC%E4%BA%8C%E6%95%99%E5%AD%A6%E6%A5%BC(%E6%9D%8E%E5%85%86%E5%9F%BA%E6%A5%BC)/@12948834.869857343,4837581.844142513,19.6z?uid=82548a63754afc91735e80e4&primaryUid=10472254985355704340&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&querytype=detailConInfo&da_src=shareurl)
 
 
 
@@ -36,7 +39,7 @@ This course introduces the basic models for supervised learning,  including kern
 
 ### Grading
 **Coursework:**
-- **Homework** (45%):
+- **Homework** (45%)
 - **Paper review** (45%): You are asked to choose a paper from this [ paper list](paper_list.md) and write a review. The review should not only summarize the paper, but also identify the novelty and limitation of the result.  A good paper review at least attempts to answer the following four questions:
     - What is the main result of the paper?
     - Why is the result important and significant compared with other papers?
