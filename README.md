@@ -65,8 +65,9 @@ This course introduces the basic models for supervised learning,  including kern
 #### Week 1
 - Tue 7/2: Introduction to supervised learning methods
     -  [Random Features for Large-Scale Kernel Machines](https://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines)
-    -  [A priori estimates](https://en.wikipedia.org/wiki/A_priori_estimate)
-- Thu 7/4: Overview of mathematical theory for neural network models
+- Thu 7/4: Overview of mathematical theory for neural network models 
+    - [Slide of Prof. E](slide/overview.pdf)
+    - [A priori estimates](https://en.wikipedia.org/wiki/A_priori_estimate)
     - [Barron spaces and the Compositional function spaces for neural network models](https://arxiv.org/abs/1906.08039)
 - Fri 7/5: Rademacher complexity, covering number, metric entropy and uniform bound 
     - [Concentration inequalities](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf)
@@ -93,6 +94,12 @@ This course introduces the basic models for supervised learning,  including kern
 - Tue 7/23: Margin theory
 - Thu 7/25: Recent progress on deep learning theory: approximation 
 - Fri 7/26: Recent progress on deep learning theory: generalization
+
+
+
+
+
+
 
 
 
