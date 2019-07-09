@@ -2,7 +2,9 @@
 ## Mathematical Theory of Neural Network Models
 
 ### Announcemetns
-- [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
+- 7/6: [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
+- 7/9: [Homework 2](homework/homework2.pdf) is out. It is due on Tuesday, 7/16, 12pm.
+- 7/9: Lecture 1 is out. 
 
 ### Administrative information
 
@@ -47,7 +49,7 @@ This course introduces the basic models for supervised learning,  including kern
     - What is the potential research direction inspired by the paper?
 
 
-- **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. Please use this template:  
+- **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. Please use this [template](template/):  
 
 **Collaboration policy:** We encourage you to form study groups and discuss courseworks.  However, you must write up all the coureworks from scrach independently without refering to any notes from  others. 
 
