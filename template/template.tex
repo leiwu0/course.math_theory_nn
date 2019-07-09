@@ -1,0 +1,31 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{scribe}
+\usepackage{listings}
+
+\Scribe{Shuhai Zhao, Yilei Han}
+\Lecturer{Lei Wu}
+\LectureNumber{1}
+\LectureDate{July 2}
+\LectureTitle{An Introduction to Supervised Learning}
+
+\lstset{style=mystyle}
+
+\begin{document}
+    \MakeScribeTop
+
+\section{Supervised Learning}
+Some basic terminologies:
+\begin{itemize}
+\item \textit{features}:  The set of attibutes, often represented as a vector, associated to an example.
+\item \textit{Hypothesis space}: A set $\mathcal{F}$ of functions mapping features to the set of labels $\mathcal{Y}$.
+\item \textit{Loss function}: A function $l$ that measures the difference, or loss, between a predicted label and a true label: $l:\mathcal{Y}×\mathcal{Y}\to \mathbb{R}_{+}$, for example, $l(y,y')=(y-y')^{2}$.
+\end{itemize}
+
+
+\bibliographystyle{abbrv}           % if you need a bibliography
+\bibliography{mybib}                % assuming yours is named mybib.bib
+
+\end{document}

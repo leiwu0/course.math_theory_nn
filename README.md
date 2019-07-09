@@ -47,7 +47,7 @@ This course introduces the basic models for supervised learning,  including kern
     - What is the potential research direction inspired by the paper?
 
 
-- **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. 
+- **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. Please use this template:  
 
 **Collaboration policy:** We encourage you to form study groups and discuss courseworks.  However, you must write up all the coureworks from scrach independently without refering to any notes from  others. 
 
@@ -63,7 +63,8 @@ This course introduces the basic models for supervised learning,  including kern
 ### Schedule (subject to change)
 
 #### Week 1
-- Tue 7/2: Introduction to supervised learning methods
+- Tue 7/2: Introduction to supervised learning methods 
+    - [Lecture 1](note/lec1.pdf)
     -  [Random Features for Large-Scale Kernel Machines](https://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines)
 - Thu 7/4: Overview of mathematical theory for neural network models 
     - [Slide of Prof. E](slide/overview.pdf)
