@@ -1,7 +1,7 @@
 
 ## Mathematical Theory of Neural Network Models
 
-### Announcemetns
+### Announcements
 - 7/6: [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
 - 7/9: [Homework 2](homework/homework2.pdf) is out. It is due on Tuesday, 7/16, 12pm.
 - 7/9: Lecture 1 is out. 
@@ -47,7 +47,8 @@ This course introduces the basic models for supervised learning,  including kern
     - Why is the result important and significant compared with other papers?
     - What is the limitation of the result?
     - What is the potential research direction inspired by the paper?
-
+    
+ You are required to give a presentation (15%) and submit a report of 3 pages (30%).
 
 - **Scribe notes** (10%): You are asked to scribe a note in LaTeX. The scribe notes can be done in pairs. Please use this [template](template/):  
 
@@ -78,7 +79,8 @@ This course introduces the basic models for supervised learning,  including kern
 #### Week 2
 - Reproducing kernel Hilbert space and random feature model
     - [What is an RKHS?](http://www.stats.ox.ac.uk/~sejdinov/teaching/atml14/Theory_2014.pdf) 
-- Error estimates for kernel ridge regression
+    - [Uniform Approximation of Functions with Random Bases](https://people.eecs.berkeley.edu/~brecht/papers/08.Rah.Rec.Allerton.pdf)
+- Error estimates for regularized random feature model
     - [Optimal Rates for the Regularized Least-Squares Algorithm](https://link.springer.com/article/10.1007/s10208-006-0196-8)
 - Error estimates for kernel methods with implicit regularization
     - [Learning with SGD and Random Features](https://arxiv.org/abs/1807.06343)
