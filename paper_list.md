@@ -14,7 +14,7 @@
 - [x] [Risk and Parameter Convergence of Logistic Regression](https://arxiv.org/abs/1803.07300)
 - [x] [Implicit Regularization in Deep Matrix Factorization](https://arxiv.org/pdf/1905.13655.pdf)
 - [x] [Gradient Descent Maximizes the Margin of Homogeneous Neural Networks](https://arxiv.org/pdf/1906.05890.pdf)
-- [ ] [Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets](https://arxiv.org/abs/1906.06247v1)
+- [x] [Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets](https://arxiv.org/abs/1906.06247v1)
 - [x] [Gradient Dynamics of Shallow Univariate ReLU Networks](https://arxiv.org/abs/1906.07842)
 
 ### PDE 
