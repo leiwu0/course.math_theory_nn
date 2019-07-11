@@ -84,7 +84,7 @@ This course introduces the basic models for supervised learning,  including kern
     - [Optimal Rates for the Regularized Least-Squares Algorithm](https://link.springer.com/article/10.1007/s10208-006-0196-8)
 - Error estimates for kernel methods with implicit regularization
     - [Learning with SGD and Random Features](https://arxiv.org/abs/1807.06343)
-    - [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics)
+    - [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326)
 - Two-layer neural network and Barron space
     - [Universal Approximation Bounds for Superpositions of a Sigmoidal Function](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf)
 
