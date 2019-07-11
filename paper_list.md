@@ -7,12 +7,12 @@
 - [ ] [Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks](https://arxiv.org/abs/1903.10047)
 - [ ] [Optimal Approximation of Piecewise Smooth Functions Using Deep ReLU Neural Networks](https://arxiv.org/pdf/1709.05289v4.pdf)
 - [ ] [Approximation Spaces of Deep Neural Networks](https://arxiv.org/pdf/1905.01208v2.pdf)
-- [ ] [On the Power and Limitations of Random Features for Understanding Neural Networks](https://arxiv.org/abs/1904.00687)
-- [ ] [Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem](https://arxiv.org/abs/1906.11945)
+- [x] [On the Power and Limitations of Random Features for Understanding Neural Networks](https://arxiv.org/abs/1904.00687)
+- [x] [Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem](https://arxiv.org/abs/1906.11945)
 
 ### Implicit regularization
-- [ ] [Risk and Parameter Convergence of Logistic Regression](https://arxiv.org/abs/1803.07300)
-- [ ] [Implicit Regularization in Deep Matrix Factorization](https://arxiv.org/pdf/1905.13655.pdf)
+- [x] [Risk and Parameter Convergence of Logistic Regression](https://arxiv.org/abs/1803.07300)
+- [x] [Implicit Regularization in Deep Matrix Factorization](https://arxiv.org/pdf/1905.13655.pdf)
 - [x] [Gradient Descent Maximizes the Margin of Homogeneous Neural Networks](https://arxiv.org/pdf/1906.05890.pdf)
 - [ ] [Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets](https://arxiv.org/abs/1906.06247v1)
 - [x] [Gradient Dynamics of Shallow Univariate ReLU Networks](https://arxiv.org/abs/1906.07842)
