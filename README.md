@@ -72,7 +72,6 @@ This course introduces the basic models for supervised learning,  including kern
 - Thu 7/4: Overview of mathematical theory for neural network models 
     - [Slide of Prof. E](slide/overview.pdf)
     - [A priori estimates](https://en.wikipedia.org/wiki/A_priori_estimate)
-    - [Barron spaces and the Compositional function spaces for neural network models](https://arxiv.org/abs/1906.08039)
 - Fri 7/5: Rademacher complexity, covering number, metric entropy and uniform bound 
     - [Concentration inequalities](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf)
 
@@ -84,13 +83,15 @@ This course introduces the basic models for supervised learning,  including kern
     - [Optimal Rates for the Regularized Least-Squares Algorithm](https://link.springer.com/article/10.1007/s10208-006-0196-8)
 - Error estimates for kernel methods with implicit regularization
     - [Learning with SGD and Random Features](https://arxiv.org/abs/1807.06343)
-    - [A Comparative Analysis of the Optimization and Generalization Property of Two-layer Neural Network and Random Feature Models Under Gradient Descent Dynamics](https://arxiv.org/abs/1904.04326)
-- Two-layer neural network and Barron space
-    - [Universal Approximation Bounds for Superpositions of a Sigmoidal Function](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf)
+    - The analysis of implicit regularization for the random feature model can be found in this [paper](https://arxiv.org/abs/1904.04326)
+- Barron space and regularization theory of two-layer neural networks
+    - Properties of Barron space can found in Section 2 of this [paper](https://arxiv.org/abs/1906.08039)
+    - The a priori estimates of regularized two-layer neural networks can be found in this [paper](https://arxiv.org/abs/1810.06397)
+    - [The must-read classic paper of Andrew Barron](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf)
 
 #### Week 3
 - Tue 7/16: Explicit and implicit regularization for two-layer neural networks 
-    - [A priori estimates of the population risk for two-layer neural networks](https://arxiv.org/abs/1810.06397)
+    
     - [Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel](https://arxiv.org/abs/1810.05369)
 - Thu 7/18: Residual network and compositional function spaces 
 - Fri 7/19: Regularization theory of residual networks 

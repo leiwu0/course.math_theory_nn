@@ -4,7 +4,7 @@
 - [ ] [Deep Network Approximation Characterized by Number of Neurons](https://arxiv.org/pdf/1906.05497v1.pdf)
 - [ ] [The phase diagram of approximation rates for deep neural networks](https://arxiv.org/pdf/1906.09477v1.pdf)
 - [ ] [Adaptivity of deep ReLU network for learning in Besov and mixed smooth Besov spaces: optimal rate and curse of dimensionality](https://openreview.net/forum?id=H1ebTsActm)
-- [ ] [Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks](https://arxiv.org/abs/1903.10047)
+- [x] [Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks](https://arxiv.org/abs/1903.10047)
 - [ ] [Optimal Approximation of Piecewise Smooth Functions Using Deep ReLU Neural Networks](https://arxiv.org/pdf/1709.05289v4.pdf)
 - [ ] [Approximation Spaces of Deep Neural Networks](https://arxiv.org/pdf/1905.01208v2.pdf)
 - [x] [On the Power and Limitations of Random Features for Understanding Neural Networks](https://arxiv.org/abs/1904.00687)
