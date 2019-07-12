@@ -9,6 +9,7 @@
 - [ ] [Approximation Spaces of Deep Neural Networks](https://arxiv.org/pdf/1905.01208v2.pdf)
 - [x] [On the Power and Limitations of Random Features for Understanding Neural Networks](https://arxiv.org/abs/1904.00687)
 - [x] [Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem](https://arxiv.org/abs/1906.11945)
+- [ ] [Benign Overfitting in Linear Regression](https://arxiv.org/abs/1906.11300)
 
 ### Implicit regularization
 - [x] [Risk and Parameter Convergence of Logistic Regression](https://arxiv.org/abs/1803.07300)
