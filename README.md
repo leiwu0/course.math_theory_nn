@@ -4,7 +4,8 @@
 ### Announcements
 - 7/6: [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
 - 7/9: [Homework 2](homework/homework2.pdf) is out. It is due on Tuesday, 7/16, 12pm.
-- 7/9: Lecture 1 is out. 
+- 7/9: Lecture 1 is out.
+- 7/12: Some references for random feature models, Barron spaces and regularization theory of two-layer nets are added.
 
 ### Administrative information
 
