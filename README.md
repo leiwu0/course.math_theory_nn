@@ -2,11 +2,13 @@
 ## Mathematical Theory of Neural Network Models
 
 ### Announcements
-- 7/6: [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
-- 7/9: [Homework 2](homework/homework2.pdf) is out. It is due on Tuesday, 7/16, 12pm.
-- 7/9: [Lecture 1](note/lec1.pdf) is out.
+- 7/17 Drafts of Lecture [3](note/lec3.pdf), [5](note/lec5.pdf) and [6](note/lec6.pdf) are out. 
+- 7/12: A draft of [Lecture 2](note/lec2.pdf) is out.
 - 7/12: Some references for random feature models, Barron spaces and regularization theory of two-layer nets are added.
-- 7/12: [Lecture 2](note/lec2.pdf) is out.
+- 7/9: A draft of [Lecture 1](note/lec1.pdf) is out.
+- 7/9: [Homework 2](homework/homework2.pdf) is out. It is due on Tuesday, 7/16, 12pm.
+- 7/6: [Homework 1](homework/homework1.pdf) is out. It is due on Friday, 7/12, 12pm.
+
 
 ### Administrative information
 
@@ -76,26 +78,26 @@ This course introduces the basic models for supervised learning,  including kern
     - [Slide of Prof. E](slide/overview.pdf)
     - [A priori estimates](https://en.wikipedia.org/wiki/A_priori_estimate)
 - Fri 7/5: Rademacher complexity, covering number, metric entropy and uniform bound 
+    - [Lecture 3](note/lec3.pdf)
     - [Concentration inequalities](https://www.stat.berkeley.edu/~mjwain/stat210b/Chap2_TailBounds_Jan22_2015.pdf)
 
 #### Week 2
 - Reproducing kernel Hilbert space and random feature model
     - [What is an RKHS?](http://www.stats.ox.ac.uk/~sejdinov/teaching/atml14/Theory_2014.pdf) 
     - [Uniform Approximation of Functions with Random Bases](https://people.eecs.berkeley.edu/~brecht/papers/08.Rah.Rec.Allerton.pdf)
-- Error estimates for regularized random feature model
-    - [Optimal Rates for the Regularized Least-Squares Algorithm](https://link.springer.com/article/10.1007/s10208-006-0196-8)
-- Error estimates for kernel methods with implicit regularization
+- Error estimates for random feature model with explict and implicit regularizations
+    - [Lecture 5](note/lec5.pdf)
     - The analysis of implicit regularization for the random feature model can be found in this [paper](https://arxiv.org/abs/1904.04326)
     - [Learning with SGD and Random Features](https://arxiv.org/abs/1807.06343)
+    - [Optimal Rates for the Regularized Least-Squares Algorithm](https://link.springer.com/article/10.1007/s10208-006-0196-8)
 - Barron space and regularization theory of two-layer neural networks
+    - [Lecture 6](note/lec6.pdf)
     - Properties of Barron space can found in Section 2 of this [paper](https://arxiv.org/abs/1906.08039)
     - The a priori estimates of regularized two-layer neural networks can be found in this [paper](https://arxiv.org/abs/1810.06397)
     - [The must-read classic paper of Andrew Barron](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf) (This is the first paper that provides an approximation rate without the course of dimensionality.)
 
 #### Week 3
 - Tue 7/16: Explicit and implicit regularization for two-layer neural networks 
-    
-    - [Regularization Matters: Generalization and Optimization of Neural Nets v.s. their Induced Kernel](https://arxiv.org/abs/1810.05369)
 - Thu 7/18: Residual network and compositional function spaces 
 - Fri 7/19: Regularization theory of residual networks 
     - [A priori estimates of the population risk for residual networks](https://arxiv.org/abs/1903.02154)
