@@ -20,4 +20,4 @@
 
 ### PDE 
 - [ ] [Analysis of the generalization error: Empirical risk minimization over deep artificial neural networks overcomes the curse of dimensionality in the numerical approximation of Black-Scholes partial differential equations](https://arxiv.org/abs/1809.03062)
-- [ ] [A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations](https://arxiv.org/abs/1901.10854)
+- [x] [A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations](https://arxiv.org/abs/1901.10854)
