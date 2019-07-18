@@ -2,6 +2,7 @@
 ## Mathematical Theory of Neural Network Models
 
 ### Announcements
+- 7/18 A draft of Lecture [4](note/lec4.pdf) is out. 
 - 7/17 Drafts of Lecture [3](note/lec3.pdf), [5](note/lec5.pdf) and [6](note/lec6.pdf) are out. 
 - 7/12: A draft of [Lecture 2](note/lec2.pdf) is out.
 - 7/12: Some references for random feature models, Barron spaces and regularization theory of two-layer nets are added.
