@@ -84,6 +84,7 @@ This course introduces the basic models for supervised learning,  including kern
 
 #### Week 2
 - Reproducing kernel Hilbert space and random feature model
+    - [Lecture 4](note/lec4.pdf)
     - [What is an RKHS?](http://www.stats.ox.ac.uk/~sejdinov/teaching/atml14/Theory_2014.pdf) 
     - [Uniform Approximation of Functions with Random Bases](https://people.eecs.berkeley.edu/~brecht/papers/08.Rah.Rec.Allerton.pdf)
 - Error estimates for random feature model with explict and implicit regularizations
