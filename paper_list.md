@@ -1,5 +1,5 @@
 ### Approximation and estimation theory 
-- [ ] [Optimal Approximation with Sparsely Connected Deep Neural Networks](https://arxiv.org/abs/1705.01714)
+- [x] [Optimal Approximation with Sparsely Connected Deep Neural Networks](https://arxiv.org/abs/1705.01714)
 - [x] [On the Expressive Power of Deep Polynomial Neural Networks](https://arxiv.org/pdf/1905.12207.pdf)
 - [x] [Deep Network Approximation Characterized by Number of Neurons](https://arxiv.org/pdf/1906.05497v1.pdf)
 - [ ] [The phase diagram of approximation rates for deep neural networks](https://arxiv.org/pdf/1906.09477v1.pdf)
