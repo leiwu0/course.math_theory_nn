@@ -20,8 +20,8 @@ Thursday (7/25)
 Friday (7/26)
 =============================
 15:10 - 15:30       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks
-15:30 - 16:50       Deep Network Approximation Characterized by Number of Neurons
-16:50 - 16:10       Optimal Approximation with Sparsely Connected Deep Neural Networks
+15:30 - 15:50       Deep Network Approximation Characterized by Number of Neurons
+15:50 - 16:10       Optimal Approximation with Sparsely Connected Deep Neural Networks
 
 16:20 - 16:40       Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem
 16:40 - 17:00       A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations
