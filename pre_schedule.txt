@@ -9,17 +9,17 @@ Thursday (7/25)
 14:40 - 15:00       Benign Overfitting in Linear Regression
 
 15:10 - 15:30       Risk and Parameter Convergence of Logistic Regression 
-15:30 - 15:50       Gradient Descent Maximizes the Margin of Homogeneous Neural Networks
+15:30 - 15:50       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks 
 
 16:00 - 16:20       Implicit Regularization in Deep Matrix Factorization
 16:20 - 16:40       Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets 
-16:40 - 17:00       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks  
+16:40 - 17:00       Gradient Dynamics of Shallow Univariate ReLU Networks
 
 
 =============================
 Friday (7/26)
 =============================
-15:10 - 15:30       Gradient Dynamics of Shallow Univariate ReLU Networks
+15:10 - 15:30       Gradient Descent Maximizes the Margin of Homogeneous Neural Networks
 15:30 - 15:50       Deep Network Approximation Characterized by Number of Neurons
 15:50 - 16:10       Optimal Approximation with Sparsely Connected Deep Neural Networks
 
