@@ -13,13 +13,13 @@ Thursday (7/25)
 
 16:00 - 16:20       Implicit Regularization in Deep Matrix Factorization
 16:20 - 16:40       Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets 
-16:40 - 17:00       Gradient Dynamics of Shallow Univariate ReLU Networks
+16:40 - 17:00       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks  
 
 
 =============================
 Friday (7/26)
 =============================
-15:10 - 15:30       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks
+15:10 - 15:30       Gradient Dynamics of Shallow Univariate ReLU Networks
 15:30 - 15:50       Deep Network Approximation Characterized by Number of Neurons
 15:50 - 16:10       Optimal Approximation with Sparsely Connected Deep Neural Networks
 
