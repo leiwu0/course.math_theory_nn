@@ -1,0 +1,27 @@
+Schedule of presentations
+
+
+=============================
+Thursday (7/25)
+=============================
+14:00 - 14:20       On the Power and Limitations of Random Features for Understanding Neural Networks
+14:20 - 14:40       On the Expressive Power of Deep Polynomial Neural Networks
+14:40 - 15:00       Benign Overfitting in Linear Regression
+
+15:10 - 15:30       Risk and Parameter Convergence of Logistic Regression 
+15:30 - 15:50       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks 
+
+16:00 - 16:20       Implicit Regularization in Deep Matrix Factorization
+16:20 - 16:40       Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets 
+16:40 - 17:00       Gradient Dynamics of Shallow Univariate ReLU Networks
+
+
+=============================
+Friday (7/26)
+=============================
+15:10 - 15:30       Gradient Descent Maximizes the Margin of Homogeneous Neural Networks
+15:30 - 15:50       Deep Network Approximation Characterized by Number of Neurons
+15:50 - 16:10       Optimal Approximation with Sparsely Connected Deep Neural Networks
+
+16:20 - 16:40       Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem
+16:40 - 17:00       A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations
