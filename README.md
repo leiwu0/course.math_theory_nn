@@ -2,7 +2,7 @@
 ## Mathematical Theory of Neural Network Models
 
 ### Announcements
-- **7/25**: The report is due on 8/2, 12 pm. 
+- **7/25**: The report of paper review is due on 8/2, 12 pm. 
 - **7/19**: The [schedule](pre_schedule.txt) of presentations is out.
 - 7/18: A draft of Lecture [4](note/lec4.pdf) is out. 
 - 7/17: Drafts of Lecture [3](note/lec3.pdf), [5](note/lec5.pdf) and [6](note/lec6.pdf) are out. 
