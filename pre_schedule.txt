@@ -11,9 +11,8 @@ Thursday (7/25)
 15:10 - 15:30       Risk and Parameter Convergence of Logistic Regression 
 15:30 - 15:50       Approximation and Non-parametric Estimation of ResNet-type Convolutional Neural Networks 
 
-16:00 - 16:20       Implicit Regularization in Deep Matrix Factorization
-16:20 - 16:40       Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets 
-16:40 - 17:00       Gradient Dynamics of Shallow Univariate ReLU Networks
+16:00 - 16:20       Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets 
+16:20 - 16:40       Gradient Dynamics of Shallow Univariate ReLU Networks
 
 
 =============================
@@ -25,3 +24,4 @@ Friday (7/26)
 
 16:20 - 16:40       Error bounds for deep ReLU networks using the Kolmogorov--Arnold superposition theorem
 16:40 - 17:00       A proof that rectified deep neural networks overcome the curse of dimensionality in the numerical approximation of semilinear heat equations
+17:00 - 17:20       Implicit Regularization in Deep Matrix Factorization
