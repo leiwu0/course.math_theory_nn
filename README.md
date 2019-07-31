@@ -2,8 +2,9 @@
 ## Mathematical Theory of Neural Network Models
 
 ### Announcements
+- **7/26**: Lecture 7 and 9 are out.
 - **7/25**: The report of paper review is due on 8/2, 12 pm. 
-- **7/19**: The [schedule](pre_schedule.txt) of presentations is out.
+- 7/19: The [schedule](pre_schedule.txt) of presentations is out.
 - 7/18: A draft of Lecture [4](note/lec4.pdf) is out. 
 - 7/17: Drafts of Lecture [3](note/lec3.pdf), [5](note/lec5.pdf) and [6](note/lec6.pdf) are out. 
 - 7/12: A draft of [Lecture 2](note/lec2.pdf) is out.
@@ -78,7 +79,7 @@ This course introduces the basic models for supervised learning,  including kern
     -  [Random Features for Large-Scale Kernel Machines](https://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines)
 - Thu 7/4: Overview of mathematical theory for neural network models 
     - [Lecture 2](note/lec2.pdf)
-    - [Slide of Prof. E](slide/overview.pdf)
+    - [Slide of Prof. E](note/overview.pdf)
     - [A priori estimates](https://en.wikipedia.org/wiki/A_priori_estimate)
 - Fri 7/5: Rademacher complexity, covering number, metric entropy and uniform bound 
     - [Lecture 3](note/lec3.pdf)
@@ -101,16 +102,21 @@ This course introduces the basic models for supervised learning,  including kern
     - [The must-read classic paper of Andrew Barron](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf) (This is the first paper that provides an approximation rate without the course of dimensionality.)
 
 #### Week 3
-- Tue 7/16: Explicit and implicit regularization for two-layer neural networks 
-- Thu 7/18: Residual network and compositional function spaces 
-- Fri 7/19: Regularization theory of residual networks 
-    - [A priori estimates of the population risk for residual networks](https://arxiv.org/abs/1903.02154)
+- Implicit regularization for two-layer neural networks 
+    - Lecture [7](note/lec7.pdf), [7.1](note/lec7.1.pdf), [7.2](note/lec7.2.pdf)
+    - The main materials can be found in this [paper](https://arxiv.org/pdf/1904.04326v1.pdf)
+- A priori estimates for regularized deep residual networks 
+    - [A Priori Estimates of the Population Risk for Residual Networks](https://arxiv.org/abs/1903.02154)
+- F-principle and it application in deep learning (Guest speakers: Zhiqin Xu, Yaoyu Zhang, Tao Luo)
+    - An introduction to F-principle [Lecture 9.1](note/lec9.1.pdf)
+    - Application of F-principle in learning two-layer neural networks [Lecture 9.2](note/lec9.2.pdf)
+    - General theory of F-principle [Lecture 9.3](note/lec9.3.pdf)
 
 #### Week 4
-- Tue 7/23: Margin theory
-- Thu 7/25: Recent progress on deep learning theory: approximation 
-- Fri 7/26: Recent progress on deep learning theory: generalization
-
+- Compositonal function space for deep residual networks
+    - The mathematical theory of compositonal function spaces can found in Section 3 of this [paper](https://arxiv.org/abs/1906.08039)
+- Overview of recent progresses in theoretical deep learning 
+    - [Slide](note/recent_progresses.pdf)
 
 
 
